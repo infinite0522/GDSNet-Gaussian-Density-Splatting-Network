@@ -18,7 +18,8 @@ Faculty of Computing, Harbin Institute of Technology
 
 **Representing crowds as continuous, mass-carrying Gaussian fields.**
 
-[Paper PDF](https://arxiv.org/pdf/2610.10396) · [Overview](#overview) · [Method](#method) · [Results](#results) · [Code Availability](#code-availability) · [Citation](#citation)
+[Paper PDF](https://arxiv.org/pdf/2610.10396) · [Overview](#overview) · [Method](#method) · [Results](#results) · [Citation](#citation) 
+%[Code Availability](#code-availability) 
 
 </div>
 
@@ -88,11 +89,11 @@ Results reported in the conference manuscript. Lower is better for both metrics;
 
 **Left to right:** input image, structural prior, simplex mass heatmap, and rendered density map. The examples illustrate adaptive spatial allocation across dense and sparse crowd scenes. Simplex heatmaps visualize predicted masses over triangular supports; the final density maps are rendered from continuous Gaussian primitives.
 
-## Code Availability
+%## Code Availability
 
-This repository currently presents the conference work and its results. **The implementation remains unreleased while we prepare the journal extension.** Code release is planned after the extension is completed; no release date has been announced.
+%This repository currently presents the conference work and its results. **The implementation remains unreleased while we prepare the journal extension.** Code release is planned after the extension is completed; no release date has been announced.
 
-You can watch this repository for release updates.
+%You can watch this repository for release updates.
 
 ## Citation
 
