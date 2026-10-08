@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gaussian Density Splatting Network
+# GDSNet: Gaussian Density Splatting Network
 
 ### GDSNet · NeurIPS 2026
 
